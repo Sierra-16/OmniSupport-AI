@@ -1,7 +1,8 @@
 # OmniSupport AI
 
 全链路智能客服系统，核心技术栈：**LangGraph + RAG + FastAPI + Vue 3**。
-![alt text](<ChatGPT Image 2026年5月10日 15_36_15.png>)
+<img width="1254" height="1254" alt="ChatGPT Image 2026年5月10日 15_36_15" src="https://github.com/user-attachments/assets/fade22d0-8242-451e-b1f7-93feab02d575" />
+
 一套完整的 **Agentic Workflow** 系统——AI 自动理解用户意图、调度多个子 Agent 协作、查询数据库、操作业务系统，并在涉及资金安全等关键节点自动挂起等待人工审批。
 
 ## 系统架构
@@ -244,8 +245,13 @@ RAG_CONFIDENCE_THRESHOLD=0.7
 │               └── InterventionPanel.vue  # 干预工作台
 └── README.md
 ```
-![alt text](<屏幕截图 2026-05-09 163833.png>) ![alt text](<屏幕截图 2026-05-09 163847.png>) ![alt text](<屏幕截图 2026-05-09 163947.png>)
-![alt text](<屏幕截图 2026-05-09 164001.png>)
+<img width="309" height="824" alt="屏幕截图 2026-05-09 164001" src="https://github.com/user-attachments/assets/75637863-04c8-4f48-9eb2-58419a148938" />
+<img width="1906" height="942" alt="屏幕截图 2026-05-09 163833" src="https://github.com/user-attachments/assets/f2ea5d8a-5c02-4bf7-95e6-acd7a59358e4" />
+<img width="1900" height="940" alt="屏幕截图 2026-05-09 163847" src="https://github.com/user-attachments/assets/f2f74896-9af2-4a20-a452-96c4fcaf3f74" />
+<img width="1381" height="892" alt="屏幕截图 2026-05-09 163947" src="https://github.com/user-attachments/assets/9b353f89-60ca-42cb-a1d5-f97543bb69a4" />
+
+
+
 
 ## 许可证
 
